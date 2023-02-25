@@ -1,0 +1,63 @@
+{
+    "Select view": {},
+    "Tampere": {
+        "city": "Tampere",
+        "weatherInfo": true,
+        "roadInfo": {
+            "roadCamera": false,
+            "trafficMessages": false,
+            "roadMaintenance": false,
+            "roadCondition": false
+        },
+        "startDate": null,
+        "endDate": null
+    },
+    "Helsinki": {
+        "city": "Helsinki",
+        "weatherInfo": false,
+        "roadInfo": {
+            "roadCamera": false,
+            "trafficMessages": false,
+            "roadMaintenance": false,
+            "roadCondition": false
+        },
+        "startDate": null,
+        "endDate": null
+    },
+    "Oulu": {
+        "city": "Oulu",
+        "weatherInfo": false,
+        "roadInfo": {
+            "roadCamera": true,
+            "trafficMessages": true,
+            "roadMaintenance": true,
+            "roadCondition": true
+        },
+        "startDate": null,
+        "endDate": null
+    },
+    "Turku": {
+        "city": "Turku",
+        "weatherInfo": false,
+        "roadInfo": {
+            "roadCamera": true,
+            "trafficMessages": true,
+            "roadMaintenance": true,
+            "roadCondition": true
+        },
+        "startDate": null,
+        "endDate": null
+    },
+    "Lappeenranta": {
+        "city": "Lappeenranta",
+        "weatherInfo": false,
+        "roadInfo": {
+            "roadCamera": false,
+            "trafficMessages": true,
+            "roadMaintenance": false,
+            "roadCondition": true
+        },
+        "startDate": null,
+        "endDate": null
+    }
+}
